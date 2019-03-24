@@ -1,5 +1,3 @@
-import numpy
-
 def print_formatted(number):
     # your code goes here
     width = len("{:b}".format(number))
